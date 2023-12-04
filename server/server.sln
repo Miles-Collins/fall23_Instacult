@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Instacult", "Instacult.csproj", "{71389BDF-94EB-410D-B485-FC63F571B044}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71389BDF-94EB-410D-B485-FC63F571B044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71389BDF-94EB-410D-B485-FC63F571B044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71389BDF-94EB-410D-B485-FC63F571B044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71389BDF-94EB-410D-B485-FC63F571B044}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {94868992-6683-441A-B8B5-57EC4864189E}
+	EndGlobalSection
+EndGlobal
